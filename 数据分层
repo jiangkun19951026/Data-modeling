@@ -1,0 +1,8 @@
+表命名
+ODS层命名为ods_表名
+DWD层命名为dwd_dim/fact_表名
+DWS层命名为dws_表名
+DWT层命名为dwt_购物车
+ADS层命名为ads_表名
+临时表命名为xxx_tmp
+用户行为表，以log为后缀
